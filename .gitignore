@@ -2,3 +2,4 @@
 /what-back/media_root
 /what-back/.vscode
 /.vscode
+/whatimage-front/node_modules*
